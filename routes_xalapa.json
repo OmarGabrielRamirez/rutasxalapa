@@ -1,5 +1,12 @@
 [
     {
-        "name": ""
+        "id": "001",
+        "name": "A. Camacho / Zona UV / Xal 2 Mil / L. Verdes / IPE / Bugambilias",
+        "picture":"https://github.com/codeandoxalapa/mapmap/blob/master/data/001/imagen/bus.jpg"
+    },
+    {
+        "id":"002",
+        "name":"Plaza Americas / CAXA / SEV / Trancas / Central de Abastos",
+        "picture":"https://github.com/codeandoxalapa/mapmap/blob/master/data/002/imagen/bus.jpg"
     }
 ]
